@@ -93,3 +93,9 @@
 .remove:before { content: "\f90c"; } /* '\f90c' */
 .master:before { content: "\f90d"; } /* '\f90d' */
 .timing:before { content: "\f90e"; } /* '\f90e' */
+.thanks:before { content: "\f900"; } /* '\f900' */
+.composer-face:before { content: "\f901"; } /* '\f901' */
+.composer-at:before { content: "\f902"; } /* '\f902' */
+.composer-topic:before { content: "\f903"; } /* '\f903' */
+.set:before { content: "\f904"; } /* '\f904' */
+.refresh:before { content: "\f905"; } /* '\f905' */
