@@ -129,7 +129,7 @@ glyphs:
     code: 0xf862
     uid: f220a344361b32db28c66048168faf9c 
     search: [app, center]
-  - 
+  -
     css: app-center2
     code: 0xf826
     uid: ce8a6dc1b032ced1d414c1b61098dfe3 
@@ -139,11 +139,6 @@ glyphs:
     code: 0xf863
     uid: ec94ff56b8332bd3edc3a4e90e7749e7 
     search: [arrow, top]
-  -
-    css: board
-    code: 0xf864
-    uid: ed99f7b52ba602f0ca3c4f0c2e0c5093 
-    search: [board]
   -
     css: cert
     code: 0xf865
@@ -325,11 +320,6 @@ glyphs:
     uid: 55c6cc587abf8016c88193a1b20cdb27 
     search: [search]
   -
-    css: arrow-top2
-    code: 0xf879
-    uid: 28337250980c696ae6e704026f828081 
-    search: [arrow,top, qzone]
-  -
     css: arrow-down
     code: 0xf890
     uid: ab90f08ccb5cc45b829a338a45a413a9 
@@ -339,11 +329,6 @@ glyphs:
     code: 0xf891
     uid: f6f69e7e826958508a5fafd3dec9b089 
     search: [arrow,tencent,up]
-  -
-    css: checkin-circle
-    code: 0xf893
-    uid: 08ad9e442f6586e040e28f95dcb1563f 
-    search: [checkin,circle,qzone]
   -
     css: play
     code: 0xf894
@@ -355,25 +340,10 @@ glyphs:
     uid: f8d0a1212fc44839760c86137386d4d2 
     search: [pause,media,qzone]
   -
-    css: say-other
-    code: 0xf896
-    uid: b3f72d0dd29ef9d4c504ecc4cdc4d871 
-    search: [say,other,qzone]
-  -
     css: add
     code: 0xf897
     uid: d48ba6a6715bdfb3f9a7623413f41983 
     search: [add,qzone]
-  -
-    css: delete
-    code: 0xf898
-    uid: d2358cec07381c9d613bf193ba2ea5fd 
-    search: [delete,qzone]
-  -
-    css: delete2
-    code: 0xf899
-    uid: 3da25f913736798d67d456d8804db06c 
-    search: [delete,qzone]
   -
     css: edit
     code: 0xf89a
@@ -394,16 +364,6 @@ glyphs:
     code: 0xf88c
     uid: 0178750590ab32929c3dca2076b8bb82 
     search: [image,qzone]
-  -
-    css: image-add
-    code: 0xf89d
-    uid: cbc84cc719925946f085fa624819b1ab 
-    search: [image,add,qzone]
-  -
-    css: zan3
-    code: 0xf89e
-    uid: 2547f4f16af7d5cc61f312e804de9c23 
-    search: [like,zan,qzone]
   -
     css: mark-man
     code: 0xf90a
