@@ -1,5 +1,5 @@
 PROJECT     := $(notdir ${PWD})
-FONT_NAME   := fontawesome
+FONT_NAME   := solaaoi 
 
 
 ################################################################################
