@@ -1,15 +1,4 @@
-AOI Font
-=========
+Reassembled Font Awesome, prepared for embedding into Fontello.
+Please, don't use materials from this repo in other way. If you need this
+font - go to [original page](http://fortawesome.github.com/Font-Awesome/).
 
-A group of icon font, name inspired by Sola Aoi , a love action film star from Japanese.
-
-
-Licence
--------
-
-* Font provided under SIL license, by [isux.tencent.com](http://isux.tencent.com)
-* Artworks provided under [CC BY](http://creativecommons.org/licenses/by/3.0/)
-  licence. If you use Qzone Font in your project - mention it somewhere, where
-  you feel comfortable: in `about` page, in HTML source, or somewhere else.
-
-  just test

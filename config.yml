@@ -69,7 +69,7 @@
 # #
 # src_fonts:
 #   first_font_alias: "/absolute/path/to/first/font.ttf"
-
+#
 ################################################################################
 #
 
@@ -81,13 +81,14 @@ meta:
   license: CC BY-SA 3.0
   license_url: http://creativecommons.org/licenses/by-sa/3.0/
 
-  css_prefix: "icon-"
+  css_prefix_text: "icon-"
   columns: 4
 
 #transform:
- # baseline: 0.5
-  #rescale: 1.2
-  #offset: -0.44
+#  baseline: 0.5
+#  rescale: 1.053
+#  # offset: -0.05
+
 
 font:
   version: "1.0"
@@ -99,11 +100,11 @@ font:
   fullname: sola-aoi
   familyname: sola-aoi
 
-  copyright: (c) isux tencent 2012
+  copyright: (c) isux tencent 2013
 
   ascent: 850
   descent: 150
-  weight: Regular
+  weight: "Regular"
 
 
 glyphs:
@@ -493,14 +494,6 @@ glyphs:
       email: isux@qq.com
     search: [checkin,circle,qzone]
   -
-    css: checkin-circle2
-    code: 0x006f
-    uid: 1d28b776fda1cdfd97b6a18deb73cfab
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [checkin,circle,qzone]
-  -
     css: play
     code: 0xf894
     uid: 2867980df2e920df50b1790ea661e8df 
@@ -636,74 +629,3 @@ glyphs:
       author: isux
       email: isux@qq.com
     search: [timing,qzone]
-  -
-    css: thanks
-    code: 0xf900
-    uid: 694a86ca5852a7b34950039928d701be 
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [thanks,qzone]
-
-  -
-    css: composer-face
-    code: 0xf901
-    uid: 3ed8fb9770463152d90386d6cd8365ee 
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [face,qzone]
-
-  -
-    css: composer-at
-    code: 0xf902
-    uid: a7f6970d2e6a483cca0352fd748c9ce3 
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [at,qzone]
-
-  -
-    css: composer-topic
-    code: 0xf903
-    uid: b453f847b4640a69bd2642333a7d5455 
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [topic,qzone]
-
-  -
-    css: set
-    code: 0xf904
-    uid: 8459d2739c5216466c6d23a8f5d1f57e
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [set,qzone]
-
-  -
-    css: refresh
-    code: 0xf905
-    uid: 40024961e7697a96e8f6e5921de2b6f8 
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [refresh,qzone]
-
-  -
-    css: full
-    code: 0xf906
-    uid: 8b0d66fc92f6063c92afe6e814047b04
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [全屏,full screen,qzone]
-
-  -
-    css: person
-    code: 0xf907
-    uid: 4bf1a62d8012aace16c88d7be4f5a138 
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [person,人,qzone]

@@ -1,5 +1,5 @@
 PROJECT     := $(notdir ${PWD})
-FONT_NAME   := sola-aoi
+FONT_NAME   := fontawesome
 
 
 ################################################################################
@@ -11,7 +11,6 @@ TMP_PATH    := /tmp/${PROJECT}-$(shell date +%s)
 REMOTE_NAME ?= origin
 REMOTE_REPO ?= $(shell git config --get remote.${REMOTE_NAME}.url)
 
-
 PWD  := $(shell pwd)
 BIN  := ./node_modules/.bin
 
@@ -19,13 +18,10 @@ BIN  := ./node_modules/.bin
 dist: font html
 
 dump:
-	rm -f -r ./src/svg/
+	rm -rf ./src/svg/
 	mkdir ./src/svg/
-	${BIN}/svg-font-dump -c `pwd`/config.yml -f -i ./src/original/solaaoi.svg -o ./src/svg/ -d diff.yml
+	${BIN}/svg-font-dump -c `pwd`/config.yml -f -i ./src/original/fontawesome-webfont.svg -o ./src/svg/ -d diff.yml
 	${BIN}/svgo --config `pwd`/dump.svgo.yml -f ./src/svg
-
-
-dist: font html
 
 
 font:
