@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1000px" height="1000px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#070303" d="M499.561,80.33C267.23,80.33,79.09,268.496,79.09,500.656
-	c0,232.33,188.141,420.52,420.471,420.52c232.184,0,420.373-188.189,420.373-420.52C919.934,268.496,731.744,80.33,499.561,80.33z
-	 M449.004,673.119h-122.92V325.686h122.92V673.119z M674.434,673.119H551.516V325.686h122.918V673.119z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000"><path fill-rule="evenodd" clip-rule="evenodd" fill="#070303" d="M499.561 80.33c-232.331 0-420.471 188.166-420.471 420.326 0 232.33 188.141 420.52 420.471 420.52 232.184 0 420.373-188.189 420.373-420.52 0-232.16-188.19-420.326-420.373-420.326zm-50.557 592.789h-122.92v-347.433h122.92v347.433zm225.43 0h-122.918v-347.433h122.918v347.433z"/></svg>
